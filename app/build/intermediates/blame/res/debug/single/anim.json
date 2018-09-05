@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e2708e8a58996bd453d333d046d64339\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\anim\\left_out.xml",
+        "source": "F:\\wangymake\\klsk\\app\\src\\main\\res\\anim\\left_out.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\anim\\success_bow_roate.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\sweet-alert-dialog-1.0.0.aar\\e3689c0a14cbd0f7f0c77b1feea376c2\\res\\anim\\success_bow_roate.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_tooltip_exit.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e2708e8a58996bd453d333d046d64339\\res\\anim\\abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\anim\\load_rotate.xml",
+        "source": "F:\\wangymake\\klsk\\app\\src\\main\\res\\anim\\load_rotate.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_tooltip_enter.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e2708e8a58996bd453d333d046d64339\\res\\anim\\abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e2708e8a58996bd453d333d046d64339\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e2708e8a58996bd453d333d046d64339\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scale_out.xml",
+        "source": "F:\\wangymake\\klsk\\app\\src\\main\\res\\anim\\scale_out.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\anim\\top_in.xml",
+        "source": "F:\\wangymake\\klsk\\app\\src\\main\\res\\anim\\top_in.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\anim\\out_righttoleft.xml",
+        "source": "F:\\wangymake\\klsk\\app\\src\\main\\res\\anim\\out_righttoleft.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\2e1ea94d056cdde948de541c6bfae552\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e2708e8a58996bd453d333d046d64339\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e2708e8a58996bd453d333d046d64339\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scale_in.xml",
+        "source": "F:\\wangymake\\klsk\\app\\src\\main\\res\\anim\\scale_in.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_marquee_in.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\RxUI-v2.0.4.aar\\2177f33ebb18d3e2515ff4303f30c7ed\\res\\anim\\anim_marquee_in.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e2708e8a58996bd453d333d046d64339\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\anim\\modal_out.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\sweet-alert-dialog-1.0.0.aar\\e3689c0a14cbd0f7f0c77b1feea376c2\\res\\anim\\modal_out.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\anim\\modal_in.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\sweet-alert-dialog-1.0.0.aar\\e3689c0a14cbd0f7f0c77b1feea376c2\\res\\anim\\modal_in.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e2708e8a58996bd453d333d046d64339\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\anim\\right_out.xml",
+        "source": "F:\\wangymake\\klsk\\app\\src\\main\\res\\anim\\right_out.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\anim\\right_in.xml",
+        "source": "F:\\wangymake\\klsk\\app\\src\\main\\res\\anim\\right_in.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e2708e8a58996bd453d333d046d64339\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_out.xml",
+        "source": "F:\\wangymake\\klsk\\app\\src\\main\\res\\anim\\bottom_out.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "F:\\wangymake\\klsk\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\anim\\top_out.xml",
+        "source": "F:\\wangymake\\klsk\\app\\src\\main\\res\\anim\\top_out.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "F:\\wangymake\\klsk\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\anim\\success_mask_layout.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\sweet-alert-dialog-1.0.0.aar\\e3689c0a14cbd0f7f0c77b1feea376c2\\res\\anim\\success_mask_layout.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_marquee_out.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\RxUI-v2.0.4.aar\\2177f33ebb18d3e2515ff4303f30c7ed\\res\\anim\\anim_marquee_out.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\2e1ea94d056cdde948de541c6bfae552\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_in.xml",
+        "source": "F:\\wangymake\\klsk\\app\\src\\main\\res\\anim\\bottom_in.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\anim\\left_in.xml",
+        "source": "F:\\wangymake\\klsk\\app\\src\\main\\res\\anim\\left_in.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\2e1ea94d056cdde948de541c6bfae552\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\anim\\error_x_in.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\sweet-alert-dialog-1.0.0.aar\\e3689c0a14cbd0f7f0c77b1feea376c2\\res\\anim\\error_x_in.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\2e1ea94d056cdde948de541c6bfae552\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translate_anim.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\RxUI-v2.0.4.aar\\2177f33ebb18d3e2515ff4303f30c7ed\\res\\anim\\translate_anim.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e2708e8a58996bd453d333d046d64339\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\anim\\error_frame_in.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\sweet-alert-dialog-1.0.0.aar\\e3689c0a14cbd0f7f0c77b1feea376c2\\res\\anim\\error_frame_in.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e2708e8a58996bd453d333d046d64339\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\anim\\in_lefttoright.xml",
+        "source": "F:\\wangymake\\klsk\\app\\src\\main\\res\\anim\\in_lefttoright.xml"
+    }
+]

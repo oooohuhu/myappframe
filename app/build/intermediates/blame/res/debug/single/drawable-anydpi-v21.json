@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\2e1ea94d056cdde948de541c6bfae552\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\2e1ea94d056cdde948de541c6bfae552\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml",
+        "source": "F:\\wangymake\\klsk\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    }
+]

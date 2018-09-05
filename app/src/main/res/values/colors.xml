@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#196ffd</color>
+    <color name="colorPrimaryDark">#196ffd</color>
+    <color name="colorAccent">#196ffd</color>
+    <color name="colorBlack">#666666</color>
+    <color name="colorBg">#ffffff</color>
+    <color name="colorBgDark">#f4f4f4</color>
+    <color name="colorTextBlack">#666666</color>
+    <color name="colorTextLight">#d1d1d1</color>
+    <color name="colorTrans">#00000000</color>
+    <color name="colorBottom">#e2e2e2</color>
+    <color name="colorTextColor">#666666</color>
+    <color name="colorTextColorDark">#333333</color>
+    <color name="colorTextColorLight2">#c4c5c6</color>
+    <color name="colorTextColorLight">#999999</color>
+    <color name="colorTrack">#535252</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorHintTextColorLight">#999999</color>
+    <color name="colorSearchHintTextColorLight">#666666</color>
+    <color name="line_gray">#eeeeee</color>
+    <color name="colordialogTextBlack">#333333</color>
+    <color name="colordialogTextDark">#666666</color>
+    <color name="colordialogBottom">#e2e2e2</color>
+    <color name="colordialogPirmary">#ff9a6a</color>
+    <color name="font_deep_gray">#666666</color>
+    <color name="colorIndexbg">#282828</color>
+    <color name="colorIndexbgDark">#181818</color>
+    <color name="colorIndexbgTextDark">#666666</color>999999
+    <color name="colorIndexbgTextLight">#999999</color>
+
+    <color name="base_bar">#ff4d4f</color>
+    <color name="colorBadge">#FF0000</color>
+    <color name="colorNewsBg">#fbfbfb</color>
+    <color name="colorNewsLine">#e0e0e0</color>
+    <color name="colorShapeStrat">#196ffd</color>
+    <color name="colorShapeEnd">#4698fd</color>
+    <color name="font_black">#222222</color>
+    <color name="base_grey">#F2F4F8</color>
+    <color name="appfont">#6e6e6e</color>
+
+
+    <color name="menuFont">#000001</color>
+    <color name="font_grey">#979799</color>
+    <color name="font_blue">#7BA1F1</color>
+
+    <color name="font_black1">#2e2e2e</color>
+    <color name="font_black2">#b2b2b2</color>
+
+
+    <color name="cutOffLine">#e3e3e3</color>
+
+    <color name="greyBlanking">#f5f5f5</color>
+
+
+    <color name="color_b7b8bd">#b7b8bd</color>
+</resources>

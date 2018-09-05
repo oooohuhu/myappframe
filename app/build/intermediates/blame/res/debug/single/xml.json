@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\xml\\file_paths.xml",
+        "source": "F:\\wangymake\\klsk\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\xml\\whitelist.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\uaac-release.aar\\3b4f23303ae8a0d09c6983800a8f90bc\\res\\xml\\whitelist.xml"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\xml\\config.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\uaac-release.aar\\3b4f23303ae8a0d09c6983800a8f90bc\\res\\xml\\config.xml"
+    }
+]

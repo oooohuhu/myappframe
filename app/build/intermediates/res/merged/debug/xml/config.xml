@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<croods-web>
+
+    <!-- 扩展引入 -->
+    <!--  <context-param>
+          test.xml
+      </context-param>-->
+
+    <!--
+        元素说明：配置加载的第一个页面
+        默 认 值：前端页面根目录下的index.html
+    -->
+    <!--<welcome-file>cross_demo/index.html</welcome-file>-->
+    <welcome-file>http://172.16.16.50:3454/index.html</welcome-file>
+
+    <!--
+        元素说明：配置需要加载的插件
+        属性说明：mode表示插件配置模式
+                如果mode配置为all,自动加载平台所有插件
+                如果mode配置为part，只加载子节点配置中的插件
+        默 认 值：mode=”all”
+    -->
+    <plugins mode="all">
+        <!--
+            元素说明：需要自定义加载的插件列表
+            属性说明：name表示需要加载的插件名称，
+            插件名称请查询《混合开发框架移动端与前端接口文档》
+       -->
+        <!--
+            <plugin>RoutePlugin</plugin>
+           <plugin>PluginWhiteList</plugin>
+        -->
+    </plugins>
+
+    <!--
+        元素说明：配置文件存放目录相对路径
+    -->
+    <preferences>
+        <!--
+            元素说明：相对路径，不同类型的文件配置相对sdcard的存放位置
+            属性说明：type表示路径类型,cc_image代表图片，cc_voice代表语音,etc.
+                    type值不会设计成固定类型，而是设计为可扩展自定义类型
+                    本框架保留cc_前缀名词做保留字,开发者自定义字段建议添加前缀
+            默 认 值：iflytek/croods/为前缀，示例，iflytek/croods/voice/
+       -->
+        <!-- 白名单位置 -->
+        <preference name="cc_whitelist">whitelist</preference>
+        <!-- 图片的临时存放路径，这里是相对路径（相对sdcard）-->
+        <preference name="cc_image_dir">iflytek/cross/image/</preference>
+        <!-- 录音文件的临时存放路径-->
+        <preference name="cc_record_dir">iflytek/cross/voice/</preference>
+        <!-- Preferrence的存放名称，不配置则默认存放cross_prefers -->
+        <preference name="cc_pref_name">cross_prefers</preference>
+
+    </preferences>
+
+
+</croods-web>

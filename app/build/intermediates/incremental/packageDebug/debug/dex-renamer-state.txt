@@ -1,0 +1,19 @@
+#Wed Sep 05 14:55:25 CST 2018
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.5=F\:\\wangymake\\klsk\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\15
+base.4=F\:\\wangymake\\klsk\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+base.3=F\:\\wangymake\\klsk\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\16
+base.2=F\:\\wangymake\\klsk\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13
+base.1=F\:\\wangymake\\klsk\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\14
+base.0=F\:\\wangymake\\klsk\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+file.5=F\:\\wangymake\\klsk\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\15\\classes.dex
+file.4=F\:\\wangymake\\klsk\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12\\classes.dex
+file.3=F\:\\wangymake\\klsk\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\16\\classes.dex
+file.2=F\:\\wangymake\\klsk\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13\\classes.dex
+file.1=F\:\\wangymake\\klsk\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\14\\classes.dex
+file.0=F\:\\wangymake\\klsk\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11\\classes.dex

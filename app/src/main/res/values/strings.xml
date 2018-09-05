@@ -1,0 +1,17 @@
+<resources>
+    <string name="appName">klsk</string>
+
+    <string name="tv_load">加载中</string>
+    <string name="tv_net_error">当前网络不可用,轻触屏幕重试</string>
+    <string name="tv_empty">抱歉,暂无数据</string>
+    <string name="tv_search_empty">亲爱的,什么都没搜到哦!</string>
+    <string name="no_data">没有更多数据</string>
+    <string name="exit">再按一次退出程序</string>
+
+    <!--微信返回提示 -->
+    <string name="errcode_success">发送成功</string>
+    <string name="errcode_cancel">发送取消</string>
+    <string name="errcode_deny">发送被拒绝</string>
+    <string name="errcode_unsupported">不支持错误</string>
+    <string name="errcode_unknown">发送返回</string>
+</resources>

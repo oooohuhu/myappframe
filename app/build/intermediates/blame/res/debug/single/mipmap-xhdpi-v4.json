@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "F:\\wangymake\\klsk\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\icon_add.png",
+        "source": "F:\\wangymake\\klsk\\app\\src\\main\\res\\mipmap-xhdpi\\icon_add.png"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\white_round.png",
+        "source": "F:\\wangymake\\klsk\\app\\src\\main\\res\\mipmap-xhdpi\\white_round.png"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher_round.png",
+        "source": "F:\\wangymake\\klsk\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\welcome.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\uaac-release.aar\\3b4f23303ae8a0d09c6983800a8f90bc\\res\\mipmap-xhdpi-v4\\welcome.png"
+    }
+]

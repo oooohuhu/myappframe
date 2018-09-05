@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\image_loading_01.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\RxUI-v2.0.4.aar\\2177f33ebb18d3e2515ff4303f30c7ed\\res\\drawable-ldpi-v4\\image_loading_01.png"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\image_loading_04.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\RxUI-v2.0.4.aar\\2177f33ebb18d3e2515ff4303f30c7ed\\res\\drawable-ldpi-v4\\image_loading_04.png"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\image_loading_05.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\RxUI-v2.0.4.aar\\2177f33ebb18d3e2515ff4303f30c7ed\\res\\drawable-ldpi-v4\\image_loading_05.png"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\image_loading_02.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\RxUI-v2.0.4.aar\\2177f33ebb18d3e2515ff4303f30c7ed\\res\\drawable-ldpi-v4\\image_loading_02.png"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\image_loading_06.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\RxUI-v2.0.4.aar\\2177f33ebb18d3e2515ff4303f30c7ed\\res\\drawable-ldpi-v4\\image_loading_06.png"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\image_loading_03.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\RxUI-v2.0.4.aar\\2177f33ebb18d3e2515ff4303f30c7ed\\res\\drawable-ldpi-v4\\image_loading_03.png"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\toast_frame.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.1-all\\caches\\transforms-1\\files-1.1\\RxUI-v2.0.4.aar\\2177f33ebb18d3e2515ff4303f30c7ed\\res\\drawable-ldpi-v4\\toast_frame.9.png"
+    },
+    {
+        "merged": "F:\\wangymake\\klsk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher_background.png",
+        "source": "F:\\wangymake\\klsk\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    }
+]

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+	<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimun-scale=1,maximum-scale-1,user-scalable=no">
+		<meta name="format-detection" content="telphone=no, email=no" />
+		<title>帮助与反馈</title>
+		<link rel="stylesheet" type="text/css" href="../css/mui.min.css">
+		<link rel="stylesheet" type="text/css" href="../css/reset.css">
+		<link rel="stylesheet" type="text/css" href="../css/app.css">
+		<script>
+			a {
+				text-decoration: none;
+			}
+		</script>
+		<!--<script>
+			var defaultW = 375;
+			if(/Android (d+.d+)/.test(navigator.userAgent)) {
+				var version = parseFloat(RegExp.$1);
+				if(version > 2.3) {
+					var phoneScale = parseInt(window.screen.width) / defaultW;
+					document.write('<meta name="viewport" content="width=' + defaultW + '", minimum-scale = ' + phoneScale +
+						", maximum-scale = " + phoneScale + ', target-densitydpi=device-dpi">')
+				} else {
+					document.write('<meta name="viewport" content="width=' + defaultW + '">')
+				}
+			} else {
+				document.write('<meta name="viewport" content="width=' + defaultW + ', user-scalable=no">')
+			};
+			
+		</script>-->
+	</head>
+
+	<body>
+		<div>
+			<ul class="mui-table-view">
+				<li class="mui-table-view-cell ">
+					<a class="list-cont mui-navigate-right" href="first.html" style="margin:-7px -15px;text-decoration: none;">
+						小学初中报名问题咨询电话
+					</a>
+				</li>
+				<li class="mui-table-view-cell">
+					<a class="list-cont mui-navigate-right" href="second.html" style="margin:-7px -15px;text-decoration: none;">
+						注册时提供身份证号被占用？
+					</a>
+				</li>
+				<li class="mui-table-view-cell">
+					<a class="list-cont mui-navigate-right " href="third.html" style="margin:-7px -15px;text-decoration: none;">
+						登录忘记密码？
+					</a>
+				</li>
+			</ul>
+			<!--<ul id="list">
+				<script>
+					var html = "",
+						list = document.getElementById("list");
+
+					for(var listDara = [{
+								url: "first.html",
+								title: "小学初中报名问题咨询电话"
+							}, {
+								url: "second.html",
+								title: "注册时提供身份证号被占用？"
+							}, {
+								url: "third.html",
+								title: "登录忘记密码？"
+							}],
+							i = 0; i < listDara.length; i++)
+						html += "<li class='item hairline-bottom'><a href='" + listDara[i].url + "'><div></div><div>" + listDara[i].title + "</div><div></div></a></li>";
+					list.innerHTML = html
+				</script>
+			</ul>-->
+		</div>
+		<div align="center" class="pos-set">
+			<button type="button" class="mui-btn mui-btn-primary mui-btn-outlined" id="opinion" onclick="feedback()">意见反馈</button>
+		</div>
+		<script type="text/javascript" src="../js/mui.min.js"></script>
+		<script type="text/javascript" src="../js/help_feedback.js"></script>
+	</body>
+
+	</html>

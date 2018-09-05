@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/progressDialog"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+
+    <!--<pl.droidsonroids.gif.GifImageView
+    android:id="@+id/giv_bird"
+    android:layout_width="86dp"
+    android:layout_height="104dp"
+    android:background="@drawable/gif_loading" />-->
+
+    <!--<ImageView-->
+        <!--android:id="@+id/loading_img"-->
+        <!--android:layout_width="86dp"-->
+        <!--android:layout_height="104dp" />-->
+
+    <!--<TextView-->
+        <!--android:id="@+id/progressDialog_text"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:textColor="#fff"-->
+        <!--android:layout_marginTop="10dp"-->
+        <!--android:textSize="13sp" />-->
+
+</LinearLayout>

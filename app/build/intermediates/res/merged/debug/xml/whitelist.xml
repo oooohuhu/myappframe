@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<whitelist>
+    <!--配置资源加载可以通过的白名单-->
+    <allowed-navigations>
+        <navigation>*</navigation>
+    </allowed-navigations>
+
+    <!-- 配置Intent能够打开的类型 -->
+    <allowed-intents>
+        <intent>iflyapp://*/*</intent>
+        <intent>sms://*/*</intent>
+        <intent>tele://*/*</intent>
+    </allowed-intents>
+
+    <!--配置允许的请求-->
+    <allowed-requests>
+        <request>*</request>
+        <!--
+        <request>https://*.iflytek.*/*</request>
+        <request>https://*.baidu.com/*</request>
+        <request>https://*.bdstatic.com/*</request>
+        <request>http://10.4.0.198/*</request>
+        <request>http://dcloud.io/*</request>-->
+    </allowed-requests>
+
+
+</whitelist>

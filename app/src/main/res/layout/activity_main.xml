@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+       >
+
+        <RelativeLayout
+            android:id="@+id/fragment_container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="50dp">
+
+            <!--<fragment-->
+                <!--android:id="@+id/fm_service"-->
+                <!--android:name="com.ustcinfo.mobile.hft.ui.fragment.HomePageFragment"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="match_parent" />-->
+
+            <!--<fragment-->
+                <!--android:id="@+id/fm_zx"-->
+                <!--android:name="com.ustcinfo.mobile.hft.ui.fragment.NewsFragment"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="match_parent" />-->
+
+            <!--<fragment-->
+                <!--android:id="@+id/fm_speech"-->
+                <!--android:name="com.ustcinfo.mobile.hft.ui.fragment.SpeechFragment"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="match_parent" />-->
+
+            <!--<fragment-->
+                <!--android:id="@+id/fm_hd"-->
+                <!--android:name="com.ustcinfo.mobile.hft.ui.fragment.GovernAffairFragment"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="match_parent" />-->
+            <!--<fragment-->
+                <!--android:id="@+id/fm_mine"-->
+                <!--android:name="com.ustcinfo.mobile.hft.ui.fragment.MineFragment"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="match_parent" />-->
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_bottombar"
+            android:layout_width="match_parent"
+            android:layout_height="58dp"
+            android:layout_alignParentBottom="true"
+            android:background="#FAFAFC">
+
+            <LinearLayout
+                android:paddingTop="2dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <RelativeLayout
+                    android:padding="5dp"
+                    android:id="@+id/rel_service"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1">
+
+                    <ImageView
+                        android:layout_centerHorizontal="true"
+                        android:id="@+id/iv_service"
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        android:src="@mipmap/service" />
+
+                    <TextView
+                        android:layout_centerHorizontal="true"
+                        android:id="@+id/tv_service"
+                        android:layout_marginTop="5dp"
+                        android:layout_below="@+id/iv_service"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="服务"
+                        android:textSize="11sp" />
+
+                </RelativeLayout>
+                <RelativeLayout
+                    android:padding="5dp"
+                    android:id="@+id/rel_zx"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1">
+
+                    <ImageView
+                        android:layout_centerHorizontal="true"
+                        android:id="@+id/iv_zx"
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        android:src="@mipmap/zixun" />
+
+                    <TextView
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="5dp"
+                        android:layout_below="@+id/iv_zx"
+                        android:id="@+id/tv_zx"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="资讯"
+                        android:textSize="11sp" />
+
+                </RelativeLayout>
+                <RelativeLayout
+                    android:padding="5dp"
+                    android:id="@+id/rel_speech"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1">
+
+                    <ImageView
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginBottom="7dp"
+                        android:id="@+id/iv_speech"
+                        android:layout_width="41dp"
+                        android:layout_height="41dp"
+                        android:src="@mipmap/icon_voice" />
+
+                    <!--<TextView-->
+                        <!--android:layout_centerHorizontal="true"-->
+                        <!--android:layout_marginTop="5dp"-->
+                        <!--android:layout_below="@+id/iv_speech"-->
+                        <!--android:id="@+id/tv_speech"-->
+                        <!--android:layout_width="wrap_content"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:text="语音查询"-->
+                        <!--android:textSize="11sp" />-->
+
+                </RelativeLayout>
+                <RelativeLayout
+                    android:padding="5dp"
+                    android:id="@+id/rel_hd"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1">
+
+                    <ImageView
+                        android:layout_centerHorizontal="true"
+                        android:id="@+id/iv_hd"
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        android:src="@mipmap/hudong" />
+
+                    <TextView
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="5dp"
+                        android:layout_below="@+id/iv_hd"
+                        android:id="@+id/tv_hd"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="互动"
+                        android:textSize="11sp" />
+
+                </RelativeLayout>
+                <RelativeLayout
+                    android:padding="5dp"
+                    android:id="@+id/rel_mine"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1">
+
+                    <ImageView
+                        android:layout_centerHorizontal="true"
+                        android:id="@+id/iv_mine"
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        android:src="@mipmap/mine" />
+
+                    <TextView
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="5dp"
+                        android:layout_below="@+id/iv_mine"
+                        android:id="@+id/tv_mine"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="我的"
+                        android:textSize="11sp" />
+
+                </RelativeLayout>
+
+            </LinearLayout>
+
+
+            <!--<View-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="0.5dp"-->
+            <!--android:background="@color/colorBottom" />-->
+
+        </RelativeLayout>
+
+      <!--  <RelativeLayout
+            android:id="@+id/rel_zhengwu"
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/circle_shape">
+
+            <ImageView
+                android:id="@+id/btn_zhengwu"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/public_margin_10dp"
+                android:scaleType="centerCrop"
+                android:src="@mipmap/icon_zhengwu" />
+
+            <TextView
+                android:id="@+id/tv_zhengwu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/btn_zhengwu"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="2dp"
+                android:text="政务互动"
+                android:textSize="11sp" />
+        </RelativeLayout>-->
+    </RelativeLayout>
+
+</RelativeLayout>
